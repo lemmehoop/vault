@@ -11,10 +11,14 @@
             "id": "f22c50d4c2bd2f37",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "🎓 uni/11-531 - CS/Git.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Git"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "🎓 uni/11-531 - CS/Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Git"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "🎓 uni/11-531 - CS/Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Git"
             }
           },
           {
@@ -136,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "🎓 uni/11-531 - CS/Git.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Git"
             }
           }
         ]
@@ -165,13 +172,18 @@
   },
   "active": "f22c50d4c2bd2f37",
   "lastOpenFiles": [
-    "study/про чистую архитектуру.md",
-    "study/генерики.md",
+    "🎓 uni/11-531 - CS/📆 plan.md",
+    "🎓 uni/11-531 - CS/Git.md",
+    "📚 wiki/🌐 backend/трейсинг.md",
+    "🎓 uni/11-531 - CS",
+    "🎓 uni",
+    "improvement plan.md",
+    "📚 wiki/🧱 architecture/🌁 paradigms/🔗 OOP/про чистую архитектуру.md",
+    "📚 wiki/🐍 python/генерики.md",
     "study/интересно посмотреть.md",
-    "study/slurm.md",
     "study/добавление трейсинга.md",
-    "study/трейсинг.md",
-    "study/helm.md",
+    "study/slurm.md",
+    "📚 wiki/🐳 devops/helm.md",
     "study",
     "🗽 life/🚷 pdd.md",
     "🗽 life/💨 hookah.md",
@@ -189,9 +201,6 @@
     "📚 wiki/🌐 backend/🤠 django/🗃️ ORM.md",
     "📚 wiki/🌐 backend/🤠 django/🔗 urls.md",
     "📚 wiki/🌐 backend/🤠 django/🎨 templates.md",
-    "📚 wiki/🌐 backend/🤠 django/🌱 celery.md",
-    "📚 wiki/🌐 backend/🤠 django/📨 email.md",
-    "📚 wiki/🌐 backend/🤠 django/🌁 views.md",
     "📚 wiki/🌐 backend/img/Pasted image 20241224105339.png",
     "📚 wiki/🌐 backend/img/Pasted image 20250716152302.png",
     "📚 wiki/🌐 backend/🤠 django",
@@ -204,8 +213,6 @@
     "📚 wiki/🧱 architecture/img/Pasted image 20250531220715.png",
     "📚 wiki/🧱 architecture/img/Pasted image 20250531211818.png",
     "📚 wiki/🧱 architecture/💨 highload",
-    "📚 wiki/🧱 architecture/✨ microservices patterns",
-    "📚 wiki/🧱 architecture/☘️ simple patterns",
     "📚 wiki/🐳 devops/☸️ kubernetes/img/Pasted image 20250708211401.png",
     "📚 wiki/🐳 devops/☸️ kubernetes/img/Pasted image 20250708211315.png",
     "📚 wiki/🐳 devops/☸️ kubernetes/img/Pasted image 20250705211646.png",
