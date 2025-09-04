@@ -12,7 +12,9 @@
             "type": "leaf",
             "state": {
               "type": "empty",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -34,8 +36,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -50,7 +55,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -58,7 +65,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -88,7 +97,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
@@ -99,7 +110,9 @@
               "state": {
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           },
           {
@@ -109,8 +122,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -118,7 +135,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           }
         ]
@@ -130,6 +153,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -141,6 +165,14 @@
   },
   "active": "f22c50d4c2bd2f37",
   "lastOpenFiles": [
+    "study/про чистую архитектуру.md",
+    "study/генерики.md",
+    "study/интересно посмотреть.md",
+    "study/slurm.md",
+    "study/добавление трейсинга.md",
+    "study/трейсинг.md",
+    "study/helm.md",
+    "study",
     "🗽 life/🚷 pdd.md",
     "🗽 life/💨 hookah.md",
     "🗽 life/🍿 movies.md",
@@ -160,17 +192,10 @@
     "📚 wiki/🌐 backend/🤠 django/🌱 celery.md",
     "📚 wiki/🌐 backend/🤠 django/📨 email.md",
     "📚 wiki/🌐 backend/🤠 django/🌁 views.md",
-    "📚 wiki/🌐 backend/🤠 django/django.md",
     "📚 wiki/🌐 backend/img/Pasted image 20241224105339.png",
     "📚 wiki/🌐 backend/img/Pasted image 20250716152302.png",
     "📚 wiki/🌐 backend/🤠 django",
-    "📚 wiki/🌐 backend/🔐 JWT.md",
-    "📚 wiki/🌐 backend/💽 sqlalchemy.md",
-    "📚 wiki/🌐 backend/🐰 RabbitMQ.md",
-    "📚 wiki/🌐 backend/🏎️ fastapi.md",
-    "📚 wiki/🌐 backend/🏁 ASGI.md",
     "📚 wiki/🌐 backend/img",
-    "📚 wiki/🌐 backend/backend.md",
     "📚 wiki/🌐 backend",
     "📚 wiki/🧱 architecture/🌁 paradigms/🔗 OOP",
     "📚 wiki/🧱 architecture/🌁 paradigms",
@@ -181,7 +206,6 @@
     "📚 wiki/🧱 architecture/💨 highload",
     "📚 wiki/🧱 architecture/✨ microservices patterns",
     "📚 wiki/🧱 architecture/☘️ simple patterns",
-    "📚 wiki/🧱 architecture/img",
     "📚 wiki/🐳 devops/☸️ kubernetes/img/Pasted image 20250708211401.png",
     "📚 wiki/🐳 devops/☸️ kubernetes/img/Pasted image 20250708211315.png",
     "📚 wiki/🐳 devops/☸️ kubernetes/img/Pasted image 20250705211646.png",
