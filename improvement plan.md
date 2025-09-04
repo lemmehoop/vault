@@ -1,0 +1,4 @@
+- [/] fluent python
+- [ ] паттерны микросервисной архитектуры
+- [ ] DevOps
+- [ ] postgresql

@@ -1,0 +1,13 @@
+- [x] Five Nights at Freddy's
+- [ ] Don't look up
+- [ ] Вуайеристы
+- [x] Pacific Rim
+- [x] Бондиана с Крейгом
+	- [x] Казино рояль
+	- [x] Квант милосердия
+	- [x] Координаты скайфолл
+	- [x] Спектр
+	- [x] Не время умирать
+- [ ] Эффект лазаря
+- [x] Rango (english version)
+- [ ] Batman: Death in the family

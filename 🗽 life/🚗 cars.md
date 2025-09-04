@@ -1,0 +1,5 @@
+- Skoda Octavia A8, 1.4, автомат
+- Volkswagen Polo VI, 1.4, робот
+- Skoda Rapid II, 1.4, робот
+- Toyota Corolla XII (E210), 1.5, автомат
+- Kia Ceed III рестайлинг (хэтчбек), 1.6, автомат
