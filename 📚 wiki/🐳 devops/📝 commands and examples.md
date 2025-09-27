@@ -7,6 +7,7 @@ docker stop <container_name>
 docker start <container_name>
 docker exec -ti <container_name> bash  # or sh
 docker cp <container_id>:<path> <host_path>
+docker conatiner stats
 ```
  Сборка и прочее
 ```bash
