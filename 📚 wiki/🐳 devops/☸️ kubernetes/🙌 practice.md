@@ -458,6 +458,7 @@ spec:
         - name: nginx  
           image: nginx:1.13  
           imagePullPolicy: IfNotPresent  
+          terminationMessagePolicy: FallbackToLogsOnError  # дает возможность посмотреть логи упавшего контейнера в текущем в describe
           ports:  
             - containerPort: 80  
               protocol: TCP  

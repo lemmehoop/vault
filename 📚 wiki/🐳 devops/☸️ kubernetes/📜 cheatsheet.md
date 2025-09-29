@@ -1,3 +1,11 @@
+##### Debug
+```bash
+kubectl describe <resource> <name>
+
+kubectl get events
+
+kubectl logs <pod> --previous  # увидеть предыдущий под, который упал
+```
 ##### Создание, применение, изменение
 ```bash
 kubectl create -f <yaml>

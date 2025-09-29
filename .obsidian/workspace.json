@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ab750bd1d6e9e3d5",
+            "id": "9f1cca7aade5a9e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🎓 uni/11-531 - CS/📆 plan.md",
+                "file": "🎓 uni/11-531 - CS/Test A.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "📆 plan"
+              "title": "Test A"
             }
           },
           {
@@ -27,40 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "terms.md",
+                "file": "📚 wiki/🐍 python/fluent python/1. Структуры данных.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "terms"
-            }
-          },
-          {
-            "id": "436e07633c43d92a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📚 wiki/🐳 devops/☸️ kubernetes/📜 cheatsheet.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "📜 cheatsheet"
-            }
-          },
-          {
-            "id": "4ff38d0a6ad867bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📚 wiki/🐳 devops/☸️ kubernetes/📜 cheatsheet.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "📜 cheatsheet"
+              "title": "1. Структуры данных"
             }
           }
         ],
@@ -121,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "074f49d1c00a49a2",
@@ -215,21 +188,27 @@
   },
   "active": "2ec2d0cc15374a82",
   "lastOpenFiles": [
+    "💼 work/создание public-frontend.md",
+    "📚 wiki/🐍 python/fluent python/1. Структуры данных.md",
+    "🎓 uni/11-531 - CS/Test B.md",
+    "🎓 uni/11-531 - CS/Test A.md",
+    "Test A.pdf",
+    "📚 wiki/🐳 devops/☸️ kubernetes/🗺️ helm.md",
+    "📚 wiki/🐳 devops/☸️ kubernetes/⛽️ разные языки.md",
+    "📚 wiki/🐳 devops/☸️ kubernetes/🙌 practice.md",
+    "📚 wiki/🐳 devops/☸️ kubernetes/📜 cheatsheet.md",
+    "📚 wiki/🐳 devops/🐟 bases.md",
+    "terms.md",
     "🎓 uni/11-531 - CS/📆 plan.md",
     "📚 wiki/🐍 python/генерики.md",
     "💼 work/links.md",
     "📚 wiki/🐳 devops/helm.md",
     "📚 wiki/🐳 devops/Untitled.md",
     "📚 wiki/🐳 devops/f.md",
-    "💼 work/создание public-frontend.md",
     "📚 wiki/🐳 devops/☸️ kubernetes/🔐 auth.md",
-    "📚 wiki/🐳 devops/☸️ kubernetes/🙌 practice.md",
-    "terms.md",
-    "📚 wiki/🐍 python/fluent python/1. Структуры данных.md",
     "📚 wiki/🐍 python/🫵 full.md",
     "📚 wiki/🐳 devops/☸️ kubernetes/🧭 architecture.md",
     "📚 wiki/🐳 devops/☸️ kubernetes/img/Pasted image 20250914191232.png",
-    "📚 wiki/🐳 devops/☸️ kubernetes/📜 cheatsheet.md",
     "🗽 life/budget planning.md",
     "🎓 uni/11-531 - CS/Untitled.canvas",
     "📚 wiki/🧱 architecture/☘️ simple patterns/👶 порождающие.md",
@@ -238,13 +217,8 @@
     "💼 work",
     "🎓 uni/11-531 - CS/Git.md",
     "📚 wiki/🐳 devops/📝 commands and examples.md",
-    "📚 wiki/🐳 devops/🐟 bases.md",
     "📚 wiki/🐳 devops/docker.md",
-    "📚 wiki/🐳 devops/🔧 GitLab CI.md",
-    "🎓 uni/ТСиСА/02.09.2025.md",
-    "📚 wiki/🌳 git.md",
     "🎓 uni/ТСиСА",
-    "🎓 uni/введение в программную инженерию.md",
     "🎓 uni/11-531 - CS",
     "🎓 uni",
     "study",
@@ -254,7 +228,6 @@
     "📚 wiki/🌐 backend/img",
     "📚 wiki/🌐 backend",
     "📚 wiki/🧱 architecture/🌁 paradigms/🔗 OOP",
-    "📚 wiki/🧱 architecture/🌁 paradigms",
     "📚 wiki/🧱 architecture/☘️ simple patterns/img/Pasted image 20250717201719.png",
     "📚 wiki/🧱 architecture/img/Pasted image 20250531220715.png",
     "📚 wiki/🧱 architecture/img/Pasted image 20250531211818.png",
