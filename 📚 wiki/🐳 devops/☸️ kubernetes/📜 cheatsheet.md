@@ -16,7 +16,7 @@ kubectl scale <deployment|replicaset> <name> --replicas=3
 
 kubectl rollout undo deployment <name> --to-revision=1  # две версии тут
 
-kubectl port-forward <container name> <host port>:<pod port>
+kubectl port-forward -n <ns> <container name> <host port>:<pod port>
 
 kubectl create secret generic <name> --from-literal=<key>=<value>
 

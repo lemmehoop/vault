@@ -1,11 +1,12 @@
 Name: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 ## Part 1: choose correct answers
 1. What is the result of `[1, 2] + [3] * 2`?
-	a. `[1, 2, 3, 3]`
+	**a**. `[1, 2, 3, 3]`
 	b. `[1, 2, 6]`
 	c. `[1, 2, 3, 6]`
 	d. Error
 2. What will this print?
+***
 ```python
 x = 10
 def func():
@@ -17,20 +18,21 @@ print(x)
 ```
 ***
 	a. 10
-	b. 5
+	**b**. 5
 	c. SyntaxError
 	d. Nothing
 3. Which expressions will result to `True`?
 	a. `"5" == 5`
-	b. `0.1 + 0.9 == 1`
+	**b**. `0.1 + 0.9 == 1`
 	c. `[] != []`
-	d. `bool("False") == True`
+	**d**. `bool("False") == True`
 4. How many iterations will `range(2, 10, 2)` give?
 	a. 5
 	b. 8
-	c. 4
+	**c**. 4
 	d. 0
 5. What will be printed after running this code?
+***
 ```python
 a = [1, 2, 3, 1, 2, 4]
 s = set(a)
@@ -41,7 +43,7 @@ print(s & {3, 7, 8})
 ***
 	a. `{1, 2, 3, 4, 5, 7, 8}`
 	b. `{1, 2, 3, 4}`
-	c. `{3}`
+	**c**. `{3}`
 	d. `{1, 2, 3, 4, 7, 8}`
 ## Part 2: write down your answer
 6. How to stop the loop with keyword? How to skip an iteration?
@@ -61,7 +63,7 @@ print(s & {3, 7, 8})
 11. Write a function called `group_by_year` that groups dates by year.
     Dates are being passed in format `DAY.MONTH.YEAR` one-by-one through console until `STOP` word passed.
     If passed dates format incorrect your program have to raise `ValueError`.
-12. Write a function that changes diagonals in a square matrix.
+12. Write a function that changes diagonals in a square matrix horizontally.
     For example:
 ```python
 [
@@ -71,7 +73,7 @@ print(s & {3, 7, 8})
 ] =>
 [
 	[3, 2, 1],
-	[4, 5, 6],
+	[6, 5, 4],
 	[9, 8, 7]
 ]
 ```
