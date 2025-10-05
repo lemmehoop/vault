@@ -8,35 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "28c612c311e279c9",
+            "id": "f22c50d4c2bd2f37",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🎓 uni/11-531 - CS/Test A.md",
+                "file": "💼 work/создание public-frontend.md",
                 "mode": "source",
                 "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Test A"
-            }
-          },
-          {
-            "id": "67312fcab284f585",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📚 wiki/🐳 devops/☸️ kubernetes/🙌 practice.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "🙌 practice"
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -55,11 +38,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -68,15 +48,13 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "service",
+                "query": "serviceacc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
+              }
             }
           },
           {
@@ -84,9 +62,7 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "state": {}
             }
           }
         ]
@@ -109,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🎓 uni/11-531 - CS/Git.md",
+                "file": "💼 work/создание public-frontend.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,9 +93,7 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Git"
+              }
             }
           },
           {
@@ -128,12 +102,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🎓 uni/11-531 - CS/Git.md",
+                "file": "💼 work/создание public-frontend.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Git"
+              }
             }
           },
           {
@@ -143,12 +115,8 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
+                "useHierarchy": true
+              }
             }
           },
           {
@@ -157,13 +125,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🎓 uni/11-531 - CS/Git.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Git"
+                "file": "💼 work/создание public-frontend.md"
+              }
             }
           }
         ]
@@ -175,7 +138,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -185,47 +147,47 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e08e3fdc354e614a",
+  "active": "f22c50d4c2bd2f37",
   "lastOpenFiles": [
-    "🎓 uni/11-531 - CS/Test A.md",
-    "Test A.pdf",
-    "🎓 uni/11-531 - CS/Test B.md",
-    "Test B.pdf",
-    "📚 wiki/🐳 devops/☸️ kubernetes/📜 cheatsheet.md",
-    "🎓 uni/11-531 - CS/Test A with answers.md",
-    "🎓 uni/11-531 - CS/Test B with answers.md",
-    "📚 wiki/🐳 devops/☸️ kubernetes/minikube.md",
     "📚 wiki/🐳 devops/☸️ kubernetes/🙌 practice.md",
-    "💼 work/links.md",
-    "💼 work/заметки.md",
-    "💼 work/создание public-frontend.md",
-    "💼 work/полезные ссылки.md",
-    "📚 wiki/🐍 python/fluent python/1. Структуры данных.md",
+    "📚 wiki/🐳 devops/☸️ kubernetes/🔐 auth.md",
+    "📚 wiki/🐳 devops/☸️ kubernetes/🦊 CI-CD.md",
+    "📚 wiki/🐳 devops/☸️ kubernetes/команды.md",
+    "📚 wiki/🐳 devops/☸️ kubernetes/🚐 minikube.md",
+    "🗽 life/budget planning.md",
+    "📚 wiki/🧱 architecture/🌁 paradigms/🔗 OOP/про чистую архитектуру.md",
     "📚 wiki/🐳 devops/☸️ kubernetes/🗺️ helm.md",
     "📚 wiki/🐳 devops/☸️ kubernetes/⛽️ разные языки.md",
-    "📚 wiki/🐳 devops/🐟 bases.md",
-    "terms.md",
-    "🎓 uni/11-531 - CS/📆 plan.md",
-    "📚 wiki/🐍 python/генерики.md",
-    "📚 wiki/🐳 devops/helm.md",
-    "📚 wiki/🐳 devops/Untitled.md",
-    "📚 wiki/🐳 devops/f.md",
-    "📚 wiki/🐳 devops/☸️ kubernetes/🔐 auth.md",
-    "📚 wiki/🐍 python/🫵 full.md",
-    "📚 wiki/🐳 devops/☸️ kubernetes/🧭 architecture.md",
     "📚 wiki/🐳 devops/☸️ kubernetes/img/Pasted image 20250914191232.png",
-    "🗽 life/budget planning.md",
-    "🎓 uni/11-531 - CS/Untitled.canvas",
+    "📚 wiki/🐳 devops/helm.md",
+    "📚 wiki/🐍 python/генерики.md",
+    "📚 wiki/🌐 backend/трейсинг.md",
+    "💼 work/создание public-frontend.md",
+    "💼 work/полезные ссылки.md",
+    "💼 work/заметки.md",
+    "💼 work/links.md",
     "💼 work",
+    "🎓 uni/ТСиСА/02.09.2025.md",
     "🎓 uni/ТСиСА",
+    "🎓 uni/11-531 - CS/📆 plan.md",
+    "🎓 uni/11-531 - CS/basics.md",
+    "🎓 uni/11-531 - CS/Test B.md",
+    "🎓 uni/11-531 - CS/Test B with answers.md",
+    "🎓 uni/11-531 - CS/Test A.md",
+    "🎓 uni/11-531 - CS/Test A with answers.md",
     "🎓 uni/11-531 - CS",
-    "🎓 uni",
-    "study",
+    "terms.md",
+    "Test B.pdf",
+    "Test A.pdf",
+    "🗽 life/🚷 pdd.md",
+    "🗽 life/💨 hookah.md",
     "📚 wiki/🌐 backend/img/Pasted image 20241224105339.png",
     "📚 wiki/🌐 backend/img/Pasted image 20250716152302.png",
     "📚 wiki/🌐 backend/🤠 django",
     "📚 wiki/🌐 backend/img",
     "📚 wiki/🌐 backend",
+    "📚 wiki/🧱 architecture/🌁 paradigms/🔗 OOP",
+    "📚 wiki/🧱 architecture/🌁 paradigms",
     "📚 wiki/🧱 architecture/☘️ simple patterns/img/Pasted image 20250717201719.png",
     "📚 wiki/🧱 architecture/img/Pasted image 20250531220715.png",
     "📚 wiki/🧱 architecture/img/Pasted image 20250531211818.png",

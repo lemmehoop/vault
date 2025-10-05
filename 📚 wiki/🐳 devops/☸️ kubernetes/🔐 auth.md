@@ -49,7 +49,7 @@ roleRef:
 ***
 ```yaml
 ---
-# service account for access
+# service account for access (it generates token)
 apiVersion: v1
 kind: ServiceAccount
 metadata:
