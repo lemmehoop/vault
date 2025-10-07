@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📚 wiki/🐍 python/fluent python/2. Функции как объекты.md",
+                "file": "🎓 uni/glass/idea.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Функции как объекты"
+              "title": "idea"
             }
           }
         ],
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "074f49d1c00a49a2",
@@ -188,6 +187,9 @@
   },
   "active": "67312fcab284f585",
   "lastOpenFiles": [
+    "📚 wiki/🌳 git.md",
+    "🎓 uni/glass/idea.md",
+    "🎓 uni/glass",
     "📚 wiki/🐍 python/fluent python/1. Структуры данных.md",
     "📚 wiki/🐍 python/fluent python/2. Функции как объекты.md",
     "📚 wiki/🐍 python/fluent python/attachments/Pasted image 20251006194100.png",
@@ -217,8 +219,6 @@
     "📚 wiki/🐳 devops/helm.md",
     "📚 wiki/🐳 devops/Untitled.md",
     "📚 wiki/🐳 devops/f.md",
-    "📚 wiki/🐳 devops/☸️ kubernetes/🔐 auth.md",
-    "📚 wiki/🐍 python/🫵 full.md",
     "📚 wiki/🐳 devops/☸️ kubernetes/img/Pasted image 20250914191232.png",
     "🎓 uni/11-531 - CS/Untitled.canvas",
     "💼 work",
@@ -229,7 +229,6 @@
     "📚 wiki/🌐 backend/img/Pasted image 20241224105339.png",
     "📚 wiki/🌐 backend/img/Pasted image 20250716152302.png",
     "📚 wiki/🌐 backend/🤠 django",
-    "📚 wiki/🌐 backend/img",
     "📚 wiki/🧱 architecture/☘️ simple patterns/img/Pasted image 20250717201719.png",
     "📚 wiki/🧱 architecture/img/Pasted image 20250531220715.png",
     "📚 wiki/🧱 architecture/img/Pasted image 20250531211818.png",
