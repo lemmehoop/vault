@@ -173,8 +173,19 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e08e3fdc354e614a",
+  "active": "49e5e8ea2374d945",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "🎓 uni/ТСиСА/02.09.2025.md",
+    "🎓 uni/ТСиСА",
+    "📚 wiki/🌐 backend/🐰 RabbitMQ.md",
+    "📚 wiki/🐍 python/fluent python/attachments/Pasted image 20251006194100.png",
+    "📚 wiki/🐍 python/fluent python/attachments/Pasted image 20251006191405.png",
+    "📚 wiki/🐍 python/fluent python/attachments",
+    "📚 wiki/🐍 python/fluent python/2. Функции как объекты.md",
+    "🎓 uni/u-net.md",
+    "🎓 uni/glass/idea.md",
+    "🎓 uni/glass",
     "🎓 uni/заметки.md",
     "📚 wiki/🧱 architecture/💨 highload/🗂️ подсистемы хранения и извлечения данных.md",
     "📚 wiki/🧱 architecture/🌁 paradigms/🔗 OOP/🧱 DDD.md",
@@ -198,14 +209,7 @@
     "📚 wiki/🌐 backend/трейсинг.md",
     "💼 work/полезные ссылки.md",
     "💼 work/заметки.md",
-    "💼 work/links.md",
     "💼 work",
-    "🎓 uni/ТСиСА/02.09.2025.md",
-    "🎓 uni/ТСиСА",
-    "🎓 uni/11-531 - CS/📆 plan.md",
-    "🎓 uni/11-531 - CS/basics.md",
-    "🎓 uni/11-531 - CS/Test B.md",
-    "🎓 uni/11-531 - CS/Test B with answers.md",
     "🎓 uni/11-531 - CS",
     "Test B.pdf",
     "Test A.pdf",
@@ -213,14 +217,10 @@
     "📚 wiki/🌐 backend/img/Pasted image 20250716152302.png",
     "📚 wiki/🌐 backend/🤠 django",
     "📚 wiki/🌐 backend/img",
-    "📚 wiki/🌐 backend",
-    "📚 wiki/🧱 architecture/🌁 paradigms/🔗 OOP",
     "📚 wiki/🧱 architecture/☘️ simple patterns/img/Pasted image 20250717201719.png",
     "📚 wiki/🧱 architecture/img/Pasted image 20250531220715.png",
     "📚 wiki/🧱 architecture/img/Pasted image 20250531211818.png",
     "📚 wiki/🐳 devops/☸️ kubernetes/img/Pasted image 20250708211401.png",
-    "📚 wiki/🐳 devops/☸️ kubernetes/img/Pasted image 20250708211315.png",
-    "📚 wiki/🐳 devops/☸️ kubernetes/img/Pasted image 20250705211646.png",
-    "📚 wiki/🐳 devops/img/Pasted image 20250704210526.png"
+    "📚 wiki/🐳 devops/☸️ kubernetes/img/Pasted image 20250708211315.png"
   ]
 }
